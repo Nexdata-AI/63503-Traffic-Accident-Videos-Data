@@ -2,7 +2,7 @@
 
 ## Description
 63,503 Traffic Accident Videos Data. The data covers highways, crossroads,rural road, etc. The data includes multiple scenes, different time, multiple weather distribution(sunny, cloudy, rainy, snowy ), multiple photographic devices. The data can be used for tasks such as traffic accident detection.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1060?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 # Specifications
